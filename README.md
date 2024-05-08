@@ -1,16 +1,12 @@
 ### Hi there 👋
 
-<!--
-**svanscho/svanscho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working for [@octoenergy](https://github.com/octoenergy) on decarbonizing the planet
+- 😄 Pronouns: he/him
+- 🐍 I code mostly in Python, but have a rusty background in Java too
+- 🌱 I’m currently learning Rust
+- 🌎 Contact me if you want to join me in decarbonizing the planet
+- 🚀 I am a space enthousiast
+- 📫 How to reach me:
+  -  [LinkedIn](https://www.linkedin.com/in/sander-van-schoote/)
+  -  [X](https://x.com/svschoot)
+- ⚡ Fun fact: I am Belgian 🇧🇪 but love kangaroos 🦘 so much I moved to Australia 🇦🇺
