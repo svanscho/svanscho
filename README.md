@@ -9,4 +9,4 @@
 - 📫 How to reach me:
   -  [LinkedIn](https://www.linkedin.com/in/sander-van-schoote/)
   -  [X](https://x.com/svschoot)
-- 🇦🇺 I am Belgian 🇧🇪 but love kangaroos 🦘 so much I moved Down Under
+- 🇦🇺 I am Belgian 🇧🇪 but love 🦘 so much I moved Down Under
